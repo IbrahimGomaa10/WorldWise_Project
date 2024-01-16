@@ -1,8 +1,8 @@
 # WorldWise Web App
 
-Simple web app that allows users to keep track of the places they've visited. Built to highlight routing, the react context API as well as the leaflet library.
+Simple web app that allows users to keep track of the places they've visited.
+Built to highlight routing, the react context API as well as the leaflet for map library.
 
-Project based on [The Ultimate React Course 2023](https://www.udemy.com/course/the-ultimate-react-course/) by Jonas Schmedtmann.
 
 ## Getting Started
 
